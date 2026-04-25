@@ -1,5 +1,6 @@
 *Read this in other languages: [🇮🇹 Italiano](#-italiano) | [🇬🇧 English](#-english)*
 
+> ⚠️ **Nota sui Video / Video Note:** > *I video allegati a questo progetto sono stati accelerati (2x) per questioni di formato. Se desideri seguire i passaggi tecnici nel dettaglio, ti consiglio di scaricare i file .mp4 e riprodurli tramite un media player locale impostando la velocità a 0.5x.*
 ---
 
 # 🇮🇹 Italiano
